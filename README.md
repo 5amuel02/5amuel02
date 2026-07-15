@@ -1,13 +1,12 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Samuel%20Manik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Samuel%20Manik&fontSize=56&fontColor=ffffff&animation=fadeIn"/>
 
-# 👋 Hi there, I'm Samuel Manik
+# Samuel Manik
 
-### 🚀 Android Developer • 🤖 AI Enthusiast • 💻 Informatics Student
+### Android Developer • AI Enthusiast • Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Android+Developer;Artificial+Intelligence+Enthusiast;Jetpack+Compose+Learner;Open+Source+Explorer;Always+Building+Something+Awesome!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Android+Developer;Computer+Engineering+Student;Building+Modern+Android+Apps;Learning+Artificial+Intelligence"/>
 
 <br>
 
@@ -17,55 +16,94 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
-```kotlin
-class SamuelManik {
+<table>
+<tr>
 
-    val role = "Android Developer"
+<td width="65%" valign="top">
 
-    val education = "Informatics Student"
+## Hello!
 
-    val interests = listOf(
-        "Android Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "UI/UX Design",
-        "Backend API"
-    )
+I'm **Samuel Manik**, a **Computer Engineering Student** from Indonesia who enjoys building Android applications using Kotlin.
 
-    fun motto() =
-        "Learn • Build • Improve • Repeat 🚀"
-}
-```
+My current interests include Android Development, Artificial Intelligence, Machine Learning, and Backend Development.
+
+I enjoy writing clean, maintainable code and continuously improving my software engineering skills.
+
+<br>
+
+### Current Focus
+
+- Android Development
+- Jetpack Compose
+- Clean Architecture
+- Firebase
+- REST API
+- Artificial Intelligence
+
+<br>
+
+### Currently Learning
+
+- TensorFlow
+
+- Dependency Injection
+
+- CI/CD
+
+- Testing Android Apps
+
+<br>
+
+### Goal
+
+To become an Android Engineer capable of developing scalable mobile applications powered by Artificial Intelligence.
+
+</td>
+
+<td align="center">
+
+<img src="https://github.com/5amuel02.png" width="220"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,androidstudio,firebase,git,github,figma,vscode,mysql,sqlite,linux,flutter,cpp&perline=7"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=5amuel02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=5amuel02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5amuel02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5amuel02&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=5amuel02&theme=tokyonight&hide_border=true"/>
 
@@ -73,77 +111,59 @@ class SamuelManik {
 
 ---
 
-# 📈 Contribution Graph
+# Current Journey
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5amuel02&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=5amuel02&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+```text
+Android Development      █████████░
+Jetpack Compose          ████████░░
+Firebase                 ███████░░░
+Machine Learning         █████░░░░░
+TensorFlow               ███░░░░░░░
+```
 
 ---
 
-# 💻 Currently Learning
+# Featured Projects
 
-<div align="center">
+> Pin your best repositories on your GitHub profile.
 
-| 📚 Learning | 🚀 Goal |
-|------------|---------|
-| Jetpack Compose | Modern Android UI |
-| Clean Architecture | Better App Structure |
-| Firebase | Cloud Backend |
-| Machine Learning | AI Apps |
-| REST API | Backend Integration |
-
-</div>
+- 📱 Android Application
+- 🤖 AI Project
+- 🌐 REST API
+- 🔥 Firebase Project
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/samuel-a-s-manik-4238b1316">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sam.mnk20">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/samuel.paulus.18">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:samuelasmanik5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-# ⚡ Fun Fact
-
-> 💡 *"Great software isn't built in one day—it's built one commit at a time."*
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting!
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+*"Build. Learn. Improve. Repeat."*
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,50:2563EB,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38BDF8,50:2563EB,100:0F172A"/>
 
 </div>
-````
