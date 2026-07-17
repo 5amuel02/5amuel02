@@ -27,46 +27,40 @@ I build Android apps end-to-end in **Kotlin + Jetpack Compose** — from data la
 
 <table>
 <tr>
-<td colspan="2" width="100%">
+<td width="33%" valign="top">
 
-### 🏠 [LifeOS](https://github.com/5amuel02/LifeOS)
-A local-first personal life-management Android app — habits, schedule, budgeting, savings goals, notes, a Pomodoro timer, and a 31-game bilingual learning suite. One Room database, one Compose design system, **zero backend, zero tracking.**
+### [LifeOS](https://github.com/5amuel02/LifeOS)
+Local-first personal life-management Android app — habits, budgeting, notes, and a 31-game bilingual learning suite. Zero backend, zero tracking.
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/home.png" width="180"/>
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/belajar.png" width="180"/>
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/stats-charts.png" width="180"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌌 [solar-system-website](https://github.com/5amuel02/solar-system-website)
-An interactive solar system built with HTML, CSS & JavaScript — orbits, planet info, and animation done from scratch without a game engine.
+### [Crack Monitoring Application](https://github.com/5amuel02/CrackMonitoringApplication)
+Android client for real-time drone-based structural crack monitoring, with live YOLO detection status and stream latency tracking. Built during an internship.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎲 [tebak-tebakan-berhadiah](https://github.com/5amuel02/tebak-tebakan-berhadiah)
-A guessing-game web app with prize/reward logic — front-end game state and scoring built in vanilla JS.
+### [Rice Plant Health Detection Application](https://github.com/5amuel02/RicePlantHealthDetectionApplication)
+Android + Flask app for rice-leaf photo capture and color-based health analysis, with scan history. Built during an internship.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+
+Also on GitHub: [`solar-system-website`](https://github.com/5amuel02/solar-system-website) · [`tebak-tebakan-berhadiah`](https://github.com/5amuel02/tebak-tebakan-berhadiah)
 
 <br>
 
