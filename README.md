@@ -60,7 +60,7 @@ Android + Flask app for rice-leaf photo capture and color-based health analysis,
 </tr>
 </table>
 
-Also on GitHub: [`solar-system-website`](https://github.com/5amuel02/solar-system-website) · [`tebak-tebakan-berhadiah`](https://github.com/5amuel02/tebak-tebakan-berhadiah)
+Also on GitHub: [`solar-system-website`](https://github.com/5amuel02/solar-system-website) · [`digital-love-letter`](https://github.com/5amuel02/digital-love-letter)
 
 <br>
 
