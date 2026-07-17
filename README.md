@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Samuel%20Manik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Android%20Developer%20building%20with%20Kotlin%20%26%20Jetpack%20Compose&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Samuel%20Manik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Android%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Engineering%20Student&descAlignY=62&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Android+%2F+Kotlin+Developer;Jetpack+Compose+%26+Clean+Architecture;Computer+Engineering+Student;Exploring+AI-powered+mobile+apps"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Android+%2F+Kotlin+Developer;Jetpack+Compose+%26+Clean+Architecture;Exploring+AI+%2F+Machine+Learning;Computer+Engineering+Student;Building+real+things%2C+not+just+tutorials"/>
 
 <br>
 
@@ -17,18 +17,20 @@
 
 ## About
 
-I build Android apps end-to-end in **Kotlin + Jetpack Compose** — from data layer to polished UI, without leaning on a framework to do the thinking for me. Currently a Computer Engineering student, spending my free cycles combining mobile development with **AI/ML** and shipping real, working software instead of tutorials.
+I build Android apps end-to-end in **Kotlin + Jetpack Compose** — from data layer to polished UI. Currently a Computer Engineering student, and genuinely into **AI/ML**, exploring how it fits into mobile products rather than treating it as a buzzword.
 
 **Focus right now:** Jetpack Compose · Room · Clean Architecture · applying AI to mobile products
 
 <br>
 
-## Featured project
+## Projects
 
-<div align="center">
+<table>
+<tr>
+<td colspan="2" width="100%">
 
-### [LifeOS](https://github.com/5amuel02/LifeOS)
-A local-first personal life-management app — habits, schedule, budgeting, savings goals, notes, a Pomodoro timer, and a 31-game bilingual learning suite. One Room database, one Compose design system, **zero backend, zero tracking.**
+### 🏠 [LifeOS](https://github.com/5amuel02/LifeOS)
+A local-first personal life-management Android app — habits, schedule, budgeting, savings goals, notes, a Pomodoro timer, and a 31-game bilingual learning suite. One Room database, one Compose design system, **zero backend, zero tracking.**
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
@@ -37,11 +39,34 @@ A local-first personal life-management app — habits, schedule, budgeting, savi
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/home.png" width="200"/>
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/belajar.png" width="200"/>
-<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/stats-charts.png" width="200"/>
+<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/home.png" width="180"/>
+<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/belajar.png" width="180"/>
+<img src="https://raw.githubusercontent.com/5amuel02/LifeOS/master/.github/screenshots/stats-charts.png" width="180"/>
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 [solar-system-website](https://github.com/5amuel02/solar-system-website)
+An interactive solar system built with HTML, CSS & JavaScript — orbits, planet info, and animation done from scratch without a game engine.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎲 [tebak-tebakan-berhadiah](https://github.com/5amuel02/tebak-tebakan-berhadiah)
+A guessing-game web app with prize/reward logic — front-end game state and scoring built in vanilla JS.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -50,7 +75,7 @@ A local-first personal life-management app — habits, schedule, budgeting, savi
 <div align="center">
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,html,css,javascript"/>
 
 **Mobile & Backend**
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,sqlite"/>
@@ -83,9 +108,12 @@ A local-first personal life-management app — habits, schedule, budgeting, savi
 
 <br>
 
-## Also on GitHub
+## Goals
 
-[`solar-system-website`](https://github.com/5amuel02/solar-system-website) — interactive solar system in HTML/CSS/JS · [`tebak-tebakan-berhadiah`](https://github.com/5amuel02/tebak-tebakan-berhadiah) — a guessing-game web app
+- 🏆 Become a professional **Android Engineer** building scalable, production-grade apps
+- 🤖 Integrate **AI/ML** capabilities into mobile applications
+- 🌍 Contribute to open-source Android projects
+- 📚 Master **Clean Architecture** and modern testing practices
 
 <br>
 
