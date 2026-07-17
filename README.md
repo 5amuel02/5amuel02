@@ -93,8 +93,9 @@ I enjoy building **Android applications with Kotlin**, writing clean and maintai
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=5amuel02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5amuel02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9"/>
+<img src="https://img.shields.io/github/followers/5amuel02?style=for-the-badge&color=2563EB&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/5amuel02?style=for-the-badge&color=38BDF8&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/5amuel02&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2563EB&labelColor=0D1117"/>
 
 <br>
 
@@ -140,12 +141,28 @@ TensorFlow               ███░░░░░░░  30%
 ## 📌 Featured Projects
 
 <div align="center">
-<a href="https://github.com/5amuel02?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=5amuel02&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=5amuel02&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true"/>
-</a>
 
-<sub>⚠️ The cards above will show as broken images until you replace <code>REPLACE_WITH_REPO_1</code> and <code>REPLACE_WITH_REPO_2</code> with the exact names of two real repositories from your GitHub account (case-sensitive).</sub>
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 [solar-system-website](https://github.com/5amuel02/solar-system-website)
+Interactive solar system built with HTML, CSS & JavaScript.
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🎲 [tebak-tebakan-berhadiah](https://github.com/5amuel02/tebak-tebakan-berhadiah)
+A guessing game web app with prizes/rewards logic.
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
