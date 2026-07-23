@@ -58,9 +58,42 @@ Android + Flask app for rice-leaf photo capture and color-based health analysis,
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### [fullstack-todo-list](https://github.com/5amuel02/fullstack-todo-list)
+Layered Express + MySQL REST API with a vanilla-JS frontend — input validation, centralized error handling, an automated test suite, and CI.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+### [cybersafe-kids](https://github.com/5amuel02/cybersafe-kids)
+AI-powered (Google Gemini) cybersecurity education platform for kids — gamified lessons on digital safety, privacy, and phishing awareness.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+### [solar-system-website](https://github.com/5amuel02/solar-system-website)
+Interactive 3D solar system built from scratch — orbit camera controls, an asteroid belt and comets, a guided "Voyager Journey" mode, and per-planet detail views.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+
+</td>
+</tr>
 </table>
 
-Also on GitHub: [`solar-system-website`](https://github.com/5amuel02/solar-system-website) · [`digital-love-letter`](https://github.com/5amuel02/digital-love-letter)
+**Also on GitHub:** [`kembang-api-interaktif`](https://github.com/5amuel02/kembang-api-interaktif) · [`cyberpunk-memory-hack`](https://github.com/5amuel02/cyberpunk-memory-hack) · [`nutrition-planner`](https://github.com/5amuel02/nutrition-planner) · [`flux-landing`](https://github.com/5amuel02/flux-landing) · [`beach-tourism-landing-page`](https://github.com/5amuel02/beach-tourism-landing-page) · [`digital-love-letter`](https://github.com/5amuel02/digital-love-letter) · [`Website-Tugas-Besar`](https://github.com/5amuel02/Website-Tugas-Besar)
 
 <br>
 
@@ -72,7 +105,7 @@ Also on GitHub: [`solar-system-website`](https://github.com/5amuel02/solar-syste
 <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,html,css,javascript"/>
 
 **Mobile & Backend**
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,nodejs,express,flask,firebase,mysql,sqlite"/>
 
 **Tools**
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
