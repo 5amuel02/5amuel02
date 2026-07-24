@@ -85,6 +85,8 @@ AI-powered (Google Gemini) cybersecurity education platform for kids — gamifie
 ### [solar-system-website](https://github.com/5amuel02/solar-system-website)
 Interactive 3D solar system built from scratch — orbit camera controls, an asteroid belt and comets, a guided "Voyager Journey" mode, and per-planet detail views.
 
+**▶ [Live demo](https://5amuel02.github.io/solar-system-website/)**
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
@@ -92,6 +94,8 @@ Interactive 3D solar system built from scratch — orbit camera controls, an ast
 </td>
 </tr>
 </table>
+
+**▶ Live demos** (open in browser): [Solar System](https://5amuel02.github.io/solar-system-website/) · [Fireworks](https://5amuel02.github.io/kembang-api-interaktif/) · [Memory Hack](https://5amuel02.github.io/cyberpunk-memory-hack/) · [Nutrition Planner](https://5amuel02.github.io/nutrition-planner/) · [Flux Landing](https://5amuel02.github.io/flux-landing/) · [Beach Tourism](https://5amuel02.github.io/beach-tourism-landing-page/) · [Love Letter](https://5amuel02.github.io/digital-love-letter/)
 
 **Also on GitHub:** [`kembang-api-interaktif`](https://github.com/5amuel02/kembang-api-interaktif) · [`cyberpunk-memory-hack`](https://github.com/5amuel02/cyberpunk-memory-hack) · [`nutrition-planner`](https://github.com/5amuel02/nutrition-planner) · [`flux-landing`](https://github.com/5amuel02/flux-landing) · [`beach-tourism-landing-page`](https://github.com/5amuel02/beach-tourism-landing-page) · [`digital-love-letter`](https://github.com/5amuel02/digital-love-letter) · [`Website-Tugas-Besar`](https://github.com/5amuel02/Website-Tugas-Besar)
 
