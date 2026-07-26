@@ -95,9 +95,26 @@ Interactive 3D solar system built from scratch — orbit camera controls, an ast
 </tr>
 </table>
 
-**▶ Live demos** (open in browser): [Solar System](https://5amuel02.github.io/solar-system-website/) · [Fireworks](https://5amuel02.github.io/kembang-api-interaktif/) · [Memory Hack](https://5amuel02.github.io/cyberpunk-memory-hack/) · [Nutrition Planner](https://5amuel02.github.io/nutrition-planner/) · [Flux Landing](https://5amuel02.github.io/flux-landing/) · [Beach Tourism](https://5amuel02.github.io/beach-tourism-landing-page/) · [Love Letter](https://5amuel02.github.io/digital-love-letter/) · [Penalty Shootout](https://5amuel02.github.io/penalty-shootout-game/) · [Lumina Market](https://5amuel02.github.io/lumina-digital-marketplace/) · [Aurelle Shop](https://5amuel02.github.io/aurelle-fashion-shop/) · [Volcano Scroll](https://5amuel02.github.io/volcano-scroll-experience/) · [Halimun Coffee](https://5amuel02.github.io/halimun-coffee-landing/)
+<details>
+<summary><b>▶ More projects & live demos</b> — smaller practice builds (click to expand)</summary>
+<br>
 
-**Also on GitHub:** [`kembang-api-interaktif`](https://github.com/5amuel02/kembang-api-interaktif) · [`cyberpunk-memory-hack`](https://github.com/5amuel02/cyberpunk-memory-hack) · [`nutrition-planner`](https://github.com/5amuel02/nutrition-planner) · [`flux-landing`](https://github.com/5amuel02/flux-landing) · [`beach-tourism-landing-page`](https://github.com/5amuel02/beach-tourism-landing-page) · [`digital-love-letter`](https://github.com/5amuel02/digital-love-letter) · [`Website-Tugas-Besar`](https://github.com/5amuel02/Website-Tugas-Besar) · [`penalty-shootout-game`](https://github.com/5amuel02/penalty-shootout-game) · [`lumina-digital-marketplace`](https://github.com/5amuel02/lumina-digital-marketplace) · [`aurelle-fashion-shop`](https://github.com/5amuel02/aurelle-fashion-shop) · [`volcano-scroll-experience`](https://github.com/5amuel02/volcano-scroll-experience) · [`halimun-coffee-landing`](https://github.com/5amuel02/halimun-coffee-landing)
+| Project | Live demo | Source |
+|---|:---:|:---:|
+| Fireworks Simulation (Canvas + Web Audio) | [Demo](https://5amuel02.github.io/kembang-api-interaktif/) | [Repo](https://github.com/5amuel02/kembang-api-interaktif) |
+| Cyberpunk Memory Hack (mini-game hub) | [Demo](https://5amuel02.github.io/cyberpunk-memory-hack/) | [Repo](https://github.com/5amuel02/cyberpunk-memory-hack) |
+| Nutrition Planner | [Demo](https://5amuel02.github.io/nutrition-planner/) | [Repo](https://github.com/5amuel02/nutrition-planner) |
+| Flux Landing (SaaS landing page) | [Demo](https://5amuel02.github.io/flux-landing/) | [Repo](https://github.com/5amuel02/flux-landing) |
+| Beach Tourism Landing Page | [Demo](https://5amuel02.github.io/beach-tourism-landing-page/) | [Repo](https://github.com/5amuel02/beach-tourism-landing-page) |
+| Digital Love Letter | [Demo](https://5amuel02.github.io/digital-love-letter/) | [Repo](https://github.com/5amuel02/digital-love-letter) |
+| Penalty Shootout Game | [Demo](https://5amuel02.github.io/penalty-shootout-game/) | [Repo](https://github.com/5amuel02/penalty-shootout-game) |
+| Lumina Digital Marketplace | [Demo](https://5amuel02.github.io/lumina-digital-marketplace/) | [Repo](https://github.com/5amuel02/lumina-digital-marketplace) |
+| Aurelle Fashion Shop | [Demo](https://5amuel02.github.io/aurelle-fashion-shop/) | [Repo](https://github.com/5amuel02/aurelle-fashion-shop) |
+| Volcano Scroll Experience (GSAP + Three.js) | [Demo](https://5amuel02.github.io/volcano-scroll-experience/) | [Repo](https://github.com/5amuel02/volcano-scroll-experience) |
+| Halimun Coffee Landing | [Demo](https://5amuel02.github.io/halimun-coffee-landing/) | [Repo](https://github.com/5amuel02/halimun-coffee-landing) |
+| Website Tugas Besar (group coursework, PHP) | — | [Repo](https://github.com/5amuel02/Website-Tugas-Besar) |
+
+</details>
 
 <br>
 
