@@ -93,6 +93,43 @@ Interactive 3D solar system built from scratch — orbit camera controls, an ast
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### [Kantin Digital — SMP N 1 Simanindo](https://github.com/5amuel02/kantin-smp-n1-simanindo)
+Full-stack ordering site built for a real client — a school canteen. Menu catalog with image uploads, plus an admin panel for CRUD and stock status.
+
+**▶ [Live demo](https://kantin-smp-n1-simanindo-ip5abmrm2-legalation.vercel.app/)**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+### [AnimeVerse](https://github.com/5amuel02/animeverse)
+Anime search & discovery platform with genre-based smart recommendations and a weekly airing schedule, with automatic Jikan → AniList API fallback.
+
+**▶ [Live demo](https://5amuel02.github.io/animeverse/)**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+### [PID Robotic Arm](https://github.com/5amuel02/pid-robotic-arm-control)
+Joystick-controlled 3-axis robotic arm with independent PID position control per axis. Group project for a Control Systems course, with full step-response analysis.
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PID%20Control-2563EB?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
 <details>
@@ -123,13 +160,16 @@ Interactive 3D solar system built from scratch — orbit camera controls, an ast
 <div align="center">
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,ts,javascript,html,css"/>
 
-**Mobile & Backend**
-<img src="https://skillicons.dev/icons?i=androidstudio,nodejs,express,flask,firebase,mysql,sqlite"/>
+**Frontend & Mobile**
+<img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,vite,tailwind,threejs"/>
 
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
+**Backend & Data**
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,prisma,supabase,mysql,sqlite,firebase"/>
+
+**Tools & Embedded**
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,arduino"/>
 
 </div>
 
@@ -150,7 +190,7 @@ Interactive 3D solar system built from scratch — orbit camera controls, an ast
 ## Currently exploring
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-0F172A?style=for-the-badge&logo=dagger&logoColor=white)
+![Full-Stack Web](https://img.shields.io/badge/Full--Stack%20Web-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Testing](https://img.shields.io/badge/Android%20Testing-38BDF8?style=for-the-badge&logo=android&logoColor=white)
 
